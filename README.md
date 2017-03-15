@@ -1,5 +1,4 @@
-# Release-mobile-app-note
-
+# Release
 - Tên app
 - Tên package
 - App icon
@@ -14,3 +13,6 @@
 - Log 
 - Crash report
 - Analytics
+
+# Estimate develop time
+http://www.riktamtech.com/estimate-cost-app-development-ios-android/
