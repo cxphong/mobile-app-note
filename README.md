@@ -16,3 +16,8 @@
 
 # Estimate develop time
 http://www.riktamtech.com/estimate-cost-app-development-ios-android/
+
+# Step
+- Solution
+- Data structer
+- Pattern
