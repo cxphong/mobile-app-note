@@ -19,6 +19,6 @@ http://www.riktamtech.com/estimate-cost-app-development-ios-android/
 
 # Step
 - Solution
-- Data structer
+- Data structure
 - Pattern
 - Write testcase
