@@ -13,6 +13,7 @@
 - Log 
 - Crash report
 - Analytics
+- Exception handler
 
 # Estimate develop time
 http://www.riktamtech.com/estimate-cost-app-development-ios-android/
