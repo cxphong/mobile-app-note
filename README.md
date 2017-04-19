@@ -23,3 +23,6 @@ http://www.riktamtech.com/estimate-cost-app-development-ios-android/
 - Data structure
 - Pattern
 - Write testcase
+
+# Android
+ - Move string, color, integer into /values
