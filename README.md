@@ -8,6 +8,7 @@
 - Test trên các version sdk, điện thoại, tỷ lệ màn hình
 - Chính tả
 - Change log
+- Rotate screen
 
 # Must 
 - Log 
