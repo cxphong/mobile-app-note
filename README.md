@@ -1,14 +1,14 @@
 # Release
-- __Tên app__
-- __Tên package__
-- __App icon__
-- __Build version__
-- __Các hằng số, URL__
-- __Chính tả__
-- Test cài đặt mới, test update trên app đã cài sẵn
-- Test trên các version sdk, điện thoại, tỷ lệ màn hình
-- Change log
-- Rotate screen
+ - __Tên app__
+ - __Tên package__
+ - __App icon__
+ - __Build version__
+ - __Các hằng số, URL__
+ - __Chính tả__
+ - Test cài đặt mới, test update trên app đã cài sẵn
+ - Test trên các version sdk, điện thoại, tỷ lệ màn hình
+ - Change log
+ - Rotate screen
 
 # Must 
 - Log 
