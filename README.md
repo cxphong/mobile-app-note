@@ -21,9 +21,13 @@ http://www.riktamtech.com/estimate-cost-app-development-ios-android/
 
 # Step
 - Solution
-- Data structure
+- Mind node
+- UML
 - Pattern
-- Write testcase
+- Code
+- Test
+- Crash report
+- Release
 
 # Android
  - Move string, color, integer into /values
