@@ -12,3 +12,4 @@
   3. Did not stop task when state changed
   4. Duplicate task - must using que & sync
   5. Deadlock
+  6. object life cycle
