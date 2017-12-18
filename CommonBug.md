@@ -13,3 +13,6 @@
   4. Duplicate task - must using que & sync
   5. Deadlock
   6. object life cycle
+
+#### byte
+  - signed/unsigned
